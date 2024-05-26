@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://inseleb.github.io/sitemap.xml
